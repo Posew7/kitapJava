@@ -11,6 +11,7 @@ public class WhileDongusu {
         }
 
         int abakus = 0;
+        
         while (abakus <= 10) {
             System.out.println("abakus = " + abakus);
             abakus++;
